@@ -24,15 +24,17 @@ ARP spoofing: A hacker sends fake ARP packets that link an attacker's MAC addres
 Boot kali and Windows7 virtual machines.
 In windows 7 give the command arp -a
 ## OUTPUT:
-
+![image](https://github.com/user-attachments/assets/6390f175-69ec-47c3-b9cc-23493d165f08)
 
 From kali linux issue the command :
 sudo arpspoof -i eth0 -t <target system> <gateway>
 ## OUTPUT:
+![image](https://github.com/user-attachments/assets/46bd453a-9cdd-40b6-8389-49373cb04c55)
 
 
  dsniff:
 
+![image](https://github.com/user-attachments/assets/049338e6-4a34-417a-aece-ec422076adee)
 
 
 
